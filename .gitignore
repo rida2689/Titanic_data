@@ -1,5 +1,5 @@
 .DS_Store
-.ML_model-checkpoint.ipynb
+ML_model-checkpoint.ipynb
 .ipynb_checkpoints
 test.csv
 train.csv
